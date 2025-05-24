@@ -3,7 +3,7 @@ As far as I know from multiple internet searches, Windows 10/11 does not provide
 
 Roadmap for improvements (in order of importance):
 
--Display folder sizes in GBs, rathe than just bytes. Possibly multiple options? (by byte, bit, MG, GB)
+-Display folder sizes in GBs, rathe than just bytes. Possibly multiple options? (by byte, bit, MB, GB)
 
 -Sort by folder size 
 
